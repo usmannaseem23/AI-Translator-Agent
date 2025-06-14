@@ -1,5 +1,7 @@
 import streamlit as st
 from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel, RunConfig
+from agents import Agent, Runner, AsyncOpenAI, OpenAIChatCompletionsModel
+
 from dotenv import load_dotenv
 import asyncio
 import os
