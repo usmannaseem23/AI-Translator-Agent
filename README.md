@@ -1,1 +1,1 @@
-**AI Transalator Agent Powered By GEMINI**
+*AI Transalator Agent Powered By GEMINI*
